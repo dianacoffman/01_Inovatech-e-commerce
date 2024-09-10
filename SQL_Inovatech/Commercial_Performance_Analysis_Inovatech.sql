@@ -11,15 +11,14 @@ from orders_cleaned o
 group by o.purchase_date_year
 order by o.purchase_date_year desc
 ;
-
---What was the annual Gross Merchandise Volume (GMV)?
-select 
-sum(o.usd_price) as year_GMV,
-o.purchase_date_year as year
-from orders_cleaned o
-group by o.purchase_date_year
-order by sum(o.usd_price) desc
-;
+--Year total_sales aov_sales total_orders
+--2022	3794769.8	229.6798	16524
+--2021	6557469.67	252.7450	25964
+--2020	7231899.11	296.3407	24406
+--2019	2699176.13	225.8347	11952
+-- Top total_sales = 2020 (Sales had a big growth 2019 to 2020, but after that sales trend drop signigicantly, and 2021 to 2022 droped more than 50%!
+-- Top aov_sales = 2020 but not to much variation.
+-- Top total_orders = 2021 but avo_sales was lower than 2020
 
 --What were the year-on-year sales growth percentages?
 --?
@@ -35,6 +34,9 @@ from orders_cleaned o
 group by o.purchase_date_month
 order by o.purchase_date_month
 ;
+--Total Sales better in months 5 > 3 > 4
+--Avg Sales almost same every month
+--Total Orders better in months 3 > 5 > 4
 
 --What were the month-on-month growth rates in sales, and how did these variations impact overall performance?
 --??
@@ -54,6 +56,9 @@ where c.region not like " "
 group by c.region, o.purchase_date_year
 order by c.region, o.purchase_date_year desc
 ;
+--Total Sales better in regions NA>EMEA>APAC>LATAM
+--Avg Sales almost same every region
+--Total Orders better in months NA>EMEA>APAC>LATAM (NA 2x more than EMEA, and EMEA 2x more than APAC, APAC 2x more than LATAM)
 
 --What was the MONTHLY regional sales performance in terms of total sales, AOV, and total orders?
 select
@@ -69,6 +74,7 @@ where c.region not like " "
 group by c.region, o.purchase_date_month
 order by c.region, o.purchase_date_month
 ;
+--Total Sales better in months 5 > 3 > 4 (For ~ all region)
 
 --What were the month-on-month growth percentages in each region?
 --??
@@ -85,6 +91,15 @@ from orders_cleaned o
 group by o.product_name, o.purchase_date_year
 order by o.product_name, o.purchase_date_year
 ;
+--Top total_sales products 2022: 27in 4K gaming monitor > Macbook Air Laptop > ThinkPad Laptop
+--Top total_sales products 2021: 27in 4K gaming monitor > Apple Airpods Headphones > Macbook Air Laptop
+--Top total_sales products 2020: 27in 4K gaming monitor > Macbook Air Laptop > ThinkPad Laptop
+--Top total_sales products 2019: 27in 4K gaming monitor > Macbook Air Laptop > ThinkPad Laptop
+
+--Top total_orders products 2022: Apple Airpods Headphones > 27in 4K gaming monitor > Samsung Charging Cable Pack
+--Top total_orders products 2021: Apple Airpods Headphones > 27in 4K gaming monitor > Samsung Charging Cable Pack
+--Top total_orders products 2020: Apple Airpods Headphones > 27in 4K gaming monitor > Samsung Charging Cable Pack
+--Top total_orders products 2019: Apple Airpods Headphones > Samsung Charging Cable Pack > 27in 4K gaming monitor
 
 --What was the MONTHLY product sales performance, considering total sales, AOV, and total orders?
 select
@@ -115,6 +130,10 @@ on c.id = o.customer_id
 group by c.marketing_channel, o.purchase_date_year
 order by c.marketing_channel, o.purchase_date_year
 ;
+--Top Marketing Channel 2022: direct > email > afiliate > social media
+--Top Marketing Channel 2021: direct > email > afiliate > social media
+--Top Marketing Channel 2020: direct > email > afiliate > social media
+--Top Marketing Channel 2019: direct > email > afiliate > social media
 
 --How did the marketing channels perform monthly in terms of sales, AOV, and total orders?
 select
@@ -148,6 +167,7 @@ on c.id = o.customer_id
 group by c.region
 order by c.region
 ;
+--We have almost same avg_purchase_to_ship_day, avg_ship_to_delivery_days, and avg_purchase_to_delivery_days by all region
 
 --What were the yearly changes in delivery and shipping times by region?
 select
@@ -199,6 +219,8 @@ on c.id = o.customer_id
 group by c.region, os.purchase_date_year, o.product_name
 order by c.region, os.purchase_date_year, o.product_name
 ;
+--Refund rate: NA (1.86) > APAC (1.74) > LATAM (1.65) > EMEA (1.53)
+--Refund amount: NA (758) > EMEA (354) > NS (166) > LATAM (86)
 
 --Are there specific products or regions with higher refund rates? If so, what are the possible causes?
 select
@@ -216,6 +238,7 @@ on c.id = o.customer_id
 group by c.region, os.purchase_date_year, o.product_name
 order by refund_rate desc
 ;
+--Apple iPhone top refund (LATAM), after Macbook Air Laptop and ThinkPad Laptop in other region
 
 --8. LOYALTY PROGRAMME PERFORMANCE
 --What is the impact of the loyalty program on total sales, AOV, and total orders?
@@ -236,6 +259,7 @@ where c.loyalty_program != 0
 group by c.region, os.purchase_date_year
 order by c.region, os.purchase_date_year
 ;
+--Who is in loyalty programme has highest sales.
 
 --How has the loyalty program contributed to year-on-year growth?
 --??
