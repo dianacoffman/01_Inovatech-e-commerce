@@ -2,18 +2,26 @@
 
 ## Overview 📖
 
+This project involves delving into data-driven insights from Inovatech, a global e-commerce platform specializing in consumer electronics. The analysis uses tools such as SQL, Excel, and Power BI, and covers four comprehensive datasets with over 225,000 rows of information. These datasets capture critical business metrics across four sales channels, four account creation methods, and over 70 regions worldwide.
+
+The goal is to uncover trends in sales performance, customer behavior, refund patterns, marketing channel effectiveness, understand regional and product-specific behaviors, and recommend strategies to optimize marketing and sales processes across different regions and customer segments. By analyzing comprehensive datasets related to sales, marketing channels, customer behavior, and product returns, we aim to provide actionable insights that can improve Inovatech’s business performance. The analysis covers key areas such as sales trends, customer behavior, refund patterns, and loyalty program effectiveness.
 
 ## Table of Contents 📚
 
 - Introduction & Storymap
 - Dataset Structure & Initial Checks
-- Business Questions & Exploratory Data Analysis
+- Business Questions & Exploratory Data Analysis in SQL
 - Finds & Insights
 - Recommendations & Next Steps
 - Dashboard in Power BI
 
 ## Introduction & Storymap📝🔎
 
+Inovatech is an innovative e-commerce platform dedicated to providing the latest consumer electronics and accessories to customers worldwide. Their extensive database covers sales figures, marketing efforts, operational efficiency, product range, and loyalty program data. These data reservoirs are now being comprehensively analysed to reveal insights aimed at enhancing Inovatech's business performance.
+
+The project's primary goal is to offer insights and recommendations in the following core areas:
+- Sales: This involves a deep understanding of best-selling products, product performance analysis, identifying regions with high sales potential, and assessing different sales channels.
+- Customer Behavior: Evaluating the effectiveness of the loyalty program, analysing product returns, and examining various marketing channels and their return on investment.
 
 ## Dataset Structure & Initial Checks 📑
 
