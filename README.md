@@ -54,20 +54,20 @@ SQL check codes to identify problems in tables can be found here.
 We separate our analysis into two types of analysis: Commercial Performance Analysis and Sales Trends/Customer Behavior.
 
 - Commercial Performance Analysis:
-1. YEARLY Sales Summary (total sales, average order value (AOV), total orders, and year-on-year sales growth percentages)
-2. MONTHLY Sales Summary (total sales, average order value (AOV), total orders, and month-on-month sales growth percentages)
-3. REGIONAL Sales Performance
-4. PRODUCT Sales Performance
-5. MARKETING CHANNEL Sales Performance
-6. DELIVERY and SHIPPING Performance (AVERAGE TIME from purchase to shipping, shipping to delivery, and total time from purchase to delivery across different regions, years and months)
-7. Product REFUNDS (product higher refund rates by region, and what are the yearly trends)
-8. LOYALTY PROGRAMME Performance (the impact of the loyalty program on total sales, AOV, and total orders)
+1. YEARLY SALES SUMMARY (total sales, average order value (AOV), total orders, and year-on-year sales growth percentages)
+2. MONTHLY SALES SUMMARY (total sales, average order value (AOV), total orders, and month-on-month sales growth percentages)
+3. REGIONAL SALES PERFORMANCE
+4. PRODUCT SALES PERFORMANCE
+5. MARKETING CHANNEL SALES PERFORMANCE
+6. DELIVERY & SHIPPING PERFORMANCE (Average time from purchase to shipping, shipping to delivery / total time from purchase to delivery across different regions, years and months)
+7. REGIONAL PRODUCT REFUNDS (product higher refund rates by region, and what are the yearly trends)
+8. LOYALTY PROGRAMME PERFORMANCE (the impact of the loyalty program on total sales, AOV, and total orders)
 
 - Sales Trends and Customer Behavior:
-1. REFUND RATE (Most Refunded Products, Product Refund Frequency (Top 3) across all years, Monthly Apple Product Refunds in 2021)
-2. ACCOUNT CREATION METHODS (Average order value across different account creation methods, Which method had the most new customers)
-3. MARKETING CHANNELS (Which marketing channels perform the best in each region, how the top channel differ across regions)
-4. CUSTOMER ORDERS (Customers who made more than 4 orders across all years, what was the order ID, product, and purchase date of their most recent order)
+1. REFUND RATE (Most Refunded Products / Product Refund Frequency (Top 3) across all years / Monthly Apple Product Refunds in 2021)
+2. ACCOUNT CREATION METHODS (Average order value across different account creation methods / Which method had the most new customers)
+3. MARKETING CHANNELS (Which marketing channels perform the best in each region / how the top channel differ across regions)
+4. CUSTOMER ORDERS (Average time between customer registration and their first order / Customers who made more than 4 orders across all years, what was the order ID, product, and purchase date of their most recent order)
 
 ## Finds & Insights💡
 
