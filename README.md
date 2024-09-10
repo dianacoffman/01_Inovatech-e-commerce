@@ -69,37 +69,47 @@ We separate our analysis into two types of analysis: Commercial Performance Anal
 
 ## Finds & Insights💡
 
-Yearly Sales Trends:
+- Yearly Sales Trends:
 2020 peak performance: Total sales reached a high in 2020 with $7.23M, driven by higher average order values (AOV) and strong order volumes.
 2021-2022 sales decline: Sales dropped significantly by 47% from 2020 to 2021 and further by over 50% from 2021 to 2022. A focus should be placed on understanding what caused this rapid decline, whether it was competition, market saturation, or internal inefficiencies.
 AOV stability: Despite fluctuations in total orders, the average order value has remained relatively stable over the years, indicating consistent pricing or product bundling strategies.
-Monthly Sales Patterns:
 
+- Monthly Sales Patterns:
 Seasonality: Peak sales were observed in months 5 (May), 3 (March), and 4 (April) across all years. Promotions or market campaigns during these months might be driving higher sales, suggesting an opportunity to replicate successful tactics during other months.
 Total Orders: Higher total orders occurred in months 3 > 5 > 4, showing that certain months have more demand, even if the average order value doesn’t differ much.
-Regional Sales Performance:
 
+- Regional Sales Performance:
 NA dominance: North America (NA) consistently leads in total sales and orders, significantly outperforming other regions. It could indicate a larger or more engaged customer base, or better regional marketing strategies.
 Lower regional sales in LATAM: LATAM shows the lowest total sales and orders, suggesting that it is a potential growth region. Customizing marketing strategies and addressing regional needs could improve LATAM's performance.
-Product Sales Performance:
 
+- Product Sales Performance:
 27in 4K gaming monitor dominance: This product consistently leads in total sales across all years, suggesting high demand for this category.
 Apple Airpods Headphones – top ordered: While 27in 4K gaming monitor generates more revenue, Apple Airpods consistently leads in total orders, showing its popularity as a frequently purchased item.
 Opportunity to bundle products: High sales of Apple Airpods and monitors suggest potential cross-selling or bundling opportunities to boost overall sales.
-Marketing Channel Performance:
 
+- Marketing Channel Performance:
 Direct channel dominance: Direct sales lead consistently in all years. It suggests strong organic traffic and brand recognition, which can be leveraged further through exclusive offers to repeat customers.
 Social media underperformance: Social media consistently lags in total sales, which might indicate the need to reassess social strategies or to increase investment in social media advertising.
-Shipping & Delivery Performance:
 
+- Shipping & Delivery Performance:
 Consistent delivery times across regions: There is little variation in delivery times across regions, which suggests a well-optimized supply chain. However, any slight delays in specific regions should still be addressed for better customer satisfaction.
 Efficiency focus: Maintaining these shipping and delivery standards while expanding or entering new markets will be key for sustaining customer satisfaction.
-Refund Rates:
 
+- Refund Rates:
 Higher refund rates in NA and APAC: NA shows the highest refund rate (1.86%), followed by APAC (1.74%). Understanding the reasons behind higher returns in these regions (e.g., product defects, misrepresentation, or unmet customer expectations) could help reduce these rates.
 Apple iPhone leads refunds in LATAM: The top product being refunded in LATAM is the Apple iPhone. Investigating whether the refunds are due to defects, shipping damage, or customer dissatisfaction could help in identifying solutions.
-Loyalty Program Impact:
 
+- Loyalty Program Impact:
 Positive impact on sales: Customers in the loyalty program show higher total sales, indicating its success in promoting repeat purchases. Strengthening and expanding the program could further drive engagement and sales growth.
 
 ## Recommendations & Next Steps 🛠️
+
+Recommendations:
+
+- Investigate the causes of the sales drop in 2021-2022: Conduct a detailed analysis of customer behavior, market conditions, and competition to understand the drastic drop in total sales, and implement corrective actions.
+- Leverage high-performing months: Replicate successful sales strategies from peak months (March-May) to boost performance during weaker months, possibly through seasonal promotions or targeted campaigns.
+- Strengthen presence in LATAM and APAC: Tailor marketing strategies, product offerings, and promotions to address regional preferences in LATAM and APAC, where performance is weaker but there is growth potential.
+- Boost social media marketing: Given that social media is underperforming, re-evaluate the content, targeting, and investment in these channels. More engaging campaigns or collaborations could help drive traffic and sales.
+- Focus on reducing refund rates in NA and APAC: Investigate the causes behind high refund rates in NA and APAC, particularly for Apple iPhones in LATAM. Solutions like better product descriptions, customer education, or improved packaging could help reduce these rates.
+- Enhance cross-selling and bundling: Consider bundling popular items like the 27in 4K gaming monitor and Apple Airpods to boost average order values and overall sales.
+- Continue optimizing the loyalty program: The loyalty program has shown positive results, so expanding it by adding more tiers or benefits (e.g., early access to sales, special discounts) could further drive customer retention and repeat purchases.
