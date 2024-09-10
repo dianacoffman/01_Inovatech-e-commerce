@@ -55,7 +55,15 @@ We separate our analysis into two types of analysis: Commercial Performance Anal
 
 - Commercial Performance Analysis:
 
-1) Yearly Sales Summary - What was the annual sales performance in terms of total sales, average order value (AOV), and total orders?
+1. YEARLY Sales Summary (total sales, average order value (AOV), total orders, and year-on-year sales growth percentages).
+2. MONTHLY Sales Summary (total sales, average order value (AOV), total orders, and month-on-month sales growth percentages).
+3. REGIONAL Sales Summary
+4. PRODUCT Sales Summary
+5. MARKETING CHANNEL Sales Performance
+6. DELIVERY and SHIPPING Performance (AVERAGE TIME from purchase to shipping, shipping to delivery, and total time from purchase to delivery across different regions, years and months)
+7. Product REFUNDS (product higher refund rates by region, and what are the yearly trends)
+8. LOYALTY PROGRAMME Performance and the impact of the loyalty program on total sales, AOV, and total orders
+
 2) Monthly Sales Summary - What were the monthly sales, AOV, and total orders? What were the month-on-month growth rates in sales, and how did these variations impact overall performance?
 3) Yearly and Monthly Regional Sales Summary - What was the annual regional sales performance in terms of total sales, AOV, and total orders? How did regional sales perform month by month in terms of total sales, AOV, total orders, and growth percentages in each region?
 4) Yearly Product Summary - What was the annual product sales performance, considering total sales, AOV, and total orders?
