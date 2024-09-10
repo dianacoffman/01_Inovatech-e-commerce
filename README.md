@@ -46,49 +46,23 @@ We separate our analysis into two types of analysis: Commercial Performance Anal
 
 - Commercial Performance Analysis:
 
-Section 1: Yearly Sales Summary
+1) Yearly Sales Summary - What was the annual sales performance in terms of total sales, average order value (AOV), and total orders?
 
-What was the annual sales performance in terms of total sales, average order value (AOV), and total orders?
-What was the annual Gross Merchandise Volume (GMV)?
-What were the year-on-year sales growth percentages?
+2) Monthly Sales Summary - What were the monthly sales, AOV, and total orders? What were the month-on-month growth rates in sales, and how did these variations impact overall performance?
 
-Section 2: Monthly Sales Summary
+3) Yearly and Monthly Regional Sales Summary - What was the annual regional sales performance in terms of total sales, AOV, and total orders? How did regional sales perform month by month in terms of total sales, AOV, total orders, and growth percentages in each region?
 
-What were the monthly sales, AOV, and total orders?
-What were the month-on-month growth rates in sales, and how did these variations impact overall performance?
-
-Section 3: Yearly and Monthly Regional Sales Summary
-
-What was the annual regional sales performance in terms of total sales, AOV, and total orders?
-How did regional sales perform month by month in terms of total sales, AOV, and total orders?
-What were the month-on-month growth percentages in each region?
-
-Section 4: Yearly Product Summary
-
-What was the annual product sales performance, considering total sales, AOV, and total orders?
+4) Yearly Product Summary - What was the annual product sales performance, considering total sales, AOV, and total orders?
 How did products perform monthly in terms of sales, AOV, and total orders?
 What were the year-on-year growth percentages for each product?
 
-Section 5: Marketing Channel Performance
+5) Marketing Channel Performance - What was the annual sales performance by marketing channel in terms of total sales, AOV, and total orders?
 
-What was the annual sales performance by marketing channel in terms of total sales, AOV, and total orders?
-How did the marketing channels perform monthly in terms of sales, AOV, and total orders?
-What were the year-on-year growth rates by marketing channel?
+6) Regional Delivery and Shipping Performance - What is the average time from purchase to shipping, shipping to delivery, and total time from purchase to delivery for each region? What were the yearly changes in delivery and shipping times by region?
 
-Section 6: Regional Delivery and Shipping Performance
+7) Regional Product Refunds - What are the product refund rates by region, and what are the yearly trends? Are there specific products or regions with higher refund rates? If so, what are the possible causes?
 
-What is the average time from purchase to shipping, shipping to delivery, and total time from purchase to delivery for each region?
-What were the yearly changes in delivery and shipping times by region?
-
-Section 7: Regional Product Refunds
-
-What are the product refund rates by region, and what are the yearly trends?
-Are there specific products or regions with higher refund rates? If so, what are the possible causes?
-
-Section 8: Loyalty Programme Performance
-
-What is the impact of the loyalty program on total sales, AOV, and total orders?
-How has the loyalty program contributed to year-on-year growth?
+8) Loyalty Programme Performance - What is the impact of the loyalty program on total sales, AOV, and total orders? How has the loyalty program contributed to year-on-year growth?
 
 - Sales Trends and Customer Behavior:
 
