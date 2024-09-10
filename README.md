@@ -17,7 +17,9 @@ The goal is to uncover trends in sales performance, customer behavior, refund pa
 
 ## Introduction & Storymap📝🔎
 
-Inovatech is an innovative e-commerce platform dedicated to providing the latest consumer electronics and accessories to customers worldwide. Their extensive database covers sales figures, marketing efforts, operational efficiency, product range, and loyalty program data. These data reservoirs are now being comprehensively analysed to reveal insights aimed at enhancing Inovatech's business performance.
+About: Inovatech is an innovative e-commerce platform dedicated to providing the latest consumer electronics and accessories to customers worldwide. 
+
+Challenge: Their extensive database covers sales figures, marketing efforts, operational efficiency, product range, and loyalty program data, but since 2018, no data had been analyzed and the company has no direction on where to follow, regarding the performance of its products, sales channels or regions where to invest more in its campaigns. These data are now being comprehensively analyzed to reveal insights aimed at enhancing Inovatech's business performance.
 
 The project's primary goal is to offer insights and recommendations in the following core areas:
 - Sales: This involves a deep understanding of best-selling products, product performance analysis, identifying regions with high sales potential, and assessing different sales channels.
