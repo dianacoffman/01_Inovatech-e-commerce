@@ -10,15 +10,101 @@
 - Business Questions & Exploratory Data Analysis
 - Finds & Insights
 - Recommendations & Next Steps
+- Dashboard in Power BI
 
 ## Introduction & Storymap📝🔎
 
 
 ## Dataset Structure & Initial Checks 📑
 
+![image](https://github.com/user-attachments/assets/a635fb5d-1e38-4326-8268-f9dbd6c8e38d)
+
+![image](https://github.com/user-attachments/assets/12d4c252-de64-4884-8393-aad1a3c9dc7a)
+
+Before starting the analysis, checks to gain an understanding of the data were performed to identify any potential data quality issues:
+
+- Check Datasets And Formats
+- Null Check
+- Duplicate Check
+- Price Statistics Test
+- Purchase Date Range
+- Product Order Counts
+
+SQL check codes to identify problems in tables can be found here.
 
 ## Business Questions & Exploratory Data Analysis ⚖️🎯
 
+We separate our analysis into two types of analysis: Commercial Performance Analysis and Sales Trends/Customer Behavior.
+
+- Commercial Performance Analysis:
+
+Section 1: Yearly Sales Summary
+
+What was the annual sales performance in terms of total sales, average order value (AOV), and total orders?
+What was the annual Gross Merchandise Volume (GMV)?
+What were the year-on-year sales growth percentages?
+
+Section 2: Monthly Sales Summary
+
+What were the monthly sales, AOV, and total orders?
+What were the month-on-month growth rates in sales, and how did these variations impact overall performance?
+
+Section 3: Yearly and Monthly Regional Sales Summary
+
+What was the annual regional sales performance in terms of total sales, AOV, and total orders?
+How did regional sales perform month by month in terms of total sales, AOV, and total orders?
+What were the month-on-month growth percentages in each region?
+
+Section 4: Yearly Product Summary
+
+What was the annual product sales performance, considering total sales, AOV, and total orders?
+How did products perform monthly in terms of sales, AOV, and total orders?
+What were the year-on-year growth percentages for each product?
+
+Section 5: Marketing Channel Performance
+
+What was the annual sales performance by marketing channel in terms of total sales, AOV, and total orders?
+How did the marketing channels perform monthly in terms of sales, AOV, and total orders?
+What were the year-on-year growth rates by marketing channel?
+
+Section 6: Regional Delivery and Shipping Performance
+
+What is the average time from purchase to shipping, shipping to delivery, and total time from purchase to delivery for each region?
+What were the yearly changes in delivery and shipping times by region?
+
+Section 7: Regional Product Refunds
+
+What are the product refund rates by region, and what are the yearly trends?
+Are there specific products or regions with higher refund rates? If so, what are the possible causes?
+
+Section 8: Loyalty Programme Performance
+
+What is the impact of the loyalty program on total sales, AOV, and total orders?
+How has the loyalty program contributed to year-on-year growth?
+
+- Sales Trends and Customer Behavior:
+
+1. How do monthly and quarterly sales trends for MacBooks in North America evolve across all years?
+1.1. What are the average, total, and number of sales for MacBooks in North America on a quarterly basis?
+1.2. What are the average, total, and number of sales for MacBooks in North America on a monthly basis?
+
+2. What was the monthly refund rate for purchases made in 2020, and how many refunds were there each month for Apple products in 2021?
+2.1. What was the refund rate for each month in 2020, calculated by dividing the number of refunds by the total number of sales?
+2.2. How many refunds occurred each month in 2021 for Apple products?
+
+3. Are certain products refunded more frequently than others? What are the top 3 most frequently refunded products across all years, and which products had the highest total count of refunds?
+3.1. What are the top 3 products with the highest refund frequency across all years?
+3.2. Which 3 products had the highest total number of refunds?
+
+4. What is the average order value (AOV) across different account creation methods during the first two months of 2022? Which method attracted the most new customers in this period?
+4.1. What is the AOV for each account creation method in the first two months of 2022?
+4.2. Which account creation method gained the most new customers during this time?
+
+5. What is the average time between customer registration and their first order?
+
+6. Which marketing channels perform best in each region? Do the top-performing channels vary by region?
+
+7. For customers who placed more than four orders across all years, what were the order ID, product, and purchase date of their most recent order?
 
 ## Finds & Insights💡
 
