@@ -25,8 +25,6 @@ The project's primary goal is to offer insights and recommendations in the follo
 
 ## Dataset Structure & Initial Checks 📑
 
-![image](https://github.com/user-attachments/assets/a635fb5d-1e38-4326-8268-f9dbd6c8e38d)
-
 ![image](https://github.com/user-attachments/assets/6b91e9fc-03e8-47f7-b31b-b79628ce7092)
 
 Checks to identify any potential data quality issues:
@@ -45,6 +43,9 @@ Before starting the analysis, checks to gain an understanding of the data were p
 - Product Order Counts
 
 SQL check codes to identify problems in tables can be found here.
+
+![image](https://github.com/user-attachments/assets/1c43905c-8b08-4221-b075-589a55f211e8)
+
 
 ## Business Questions & Exploratory Data Analysis ⚖️🎯
 
