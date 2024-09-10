@@ -1,5 +1,3 @@
-## Data-Driven Insights into Inovatech e-commerce
-
 ## Overview 📖
 
 This project involves delving into data-driven insights from Inovatech, a global e-commerce platform specializing in consumer electronics. The analysis uses tools such as SQL, Excel, and Power BI, and covers four comprehensive datasets with over 225,000 rows of information. These datasets capture critical business metrics across four sales channels, four account creation methods, and over 70 regions worldwide.
