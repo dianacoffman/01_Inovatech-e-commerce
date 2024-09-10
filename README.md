@@ -7,11 +7,11 @@ The goal is to uncover trends in sales performance, customer behavior, refund pa
 ## Table of Contents 📚
 
 - Introduction & Storymap
-- Dataset Structure & Initial Checks
-- Business Questions & Exploratory Data Analysis in SQL
+- Dataset Structure, Data Cleaning & Initial Checks
+- Business Questions & Exploratory Data Analysis
 - Finds & Insights
 - Recommendations & Next Steps
-- Dashboard in Power BI
+- Dashboards in Power BI
 
 ## Introduction & Storymap📝🔎
 
@@ -23,7 +23,7 @@ The project's primary goal is to offer insights and recommendations in the follo
 - Sales: This involves a deep understanding of best-selling products, product performance analysis, identifying regions with high sales potential, and assessing different sales channels.
 - Customer Behavior: Evaluating the effectiveness of the loyalty program, analysing product returns, and examining various marketing channels and their return on investment.
 
-## Dataset Structure & Initial Checks 📑
+## Dataset Structure, Data Cleaning & Initial Checks 📑
 
 ![image](https://github.com/user-attachments/assets/6b91e9fc-03e8-47f7-b31b-b79628ce7092)
 
