@@ -64,14 +64,10 @@ We separate our analysis into two types of analysis: Commercial Performance Anal
 8. LOYALTY PROGRAMME Performance (the impact of the loyalty program on total sales, AOV, and total orders)
 
 - Sales Trends and Customer Behavior:
-
-1. How do monthly and quarterly sales trends for MacBooks in North America evolve across all years?
-2. What was the monthly refund rate for purchases made in 2020, and how many refunds were there each month for Apple products in 2021?
-3. Are certain products refunded more frequently than others? What are the top 3 most frequently refunded products across all years, and which products had the highest total count of refunds?
-4. What is the average order value (AOV) across different account creation methods during the first two months of 2022? Which method attracted the most new customers in this period?
-5. What is the average time between customer registration and their first order?
-6. Which marketing channels perform best in each region? Do the top-performing channels vary by region?
-7. For customers who placed more than four orders across all years, what were the order ID, product, and purchase date of their most recent order?
+1. REFUND RATE (Most Refunded Products, Product Refund Frequency (Top 3) across all years, Monthly Apple Product Refunds in 2021)
+2. ACCOUNT CREATION METHODS (Average order value across different account creation methods, Which method had the most new customers)
+3. MARKETING CHANNELS (Which marketing channels perform the best in each region, how the top channel differ across regions)
+4. CUSTOMER ORDERS (Customers who made more than 4 orders across all years, what was the order ID, product, and purchase date of their most recent order)
 
 ## Finds & Insights💡
 
