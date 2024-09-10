@@ -54,24 +54,14 @@ SQL check codes to identify problems in tables can be found here.
 We separate our analysis into two types of analysis: Commercial Performance Analysis and Sales Trends/Customer Behavior.
 
 - Commercial Performance Analysis:
-1. YEARLY Sales Summary (total sales, average order value (AOV), total orders, and year-on-year sales growth percentages).
-2. MONTHLY Sales Summary (total sales, average order value (AOV), total orders, and month-on-month sales growth percentages).
+1. YEARLY Sales Summary (total sales, average order value (AOV), total orders, and year-on-year sales growth percentages)
+2. MONTHLY Sales Summary (total sales, average order value (AOV), total orders, and month-on-month sales growth percentages)
 3. REGIONAL Sales Performance
 4. PRODUCT Sales Performance
 5. MARKETING CHANNEL Sales Performance
 6. DELIVERY and SHIPPING Performance (AVERAGE TIME from purchase to shipping, shipping to delivery, and total time from purchase to delivery across different regions, years and months)
 7. Product REFUNDS (product higher refund rates by region, and what are the yearly trends)
-8. LOYALTY PROGRAMME Performance and the impact of the loyalty program on total sales, AOV, and total orders
-
-2) Monthly Sales Summary - What were the monthly sales, AOV, and total orders? What were the month-on-month growth rates in sales, and how did these variations impact overall performance?
-3) Yearly and Monthly Regional Sales Summary - What was the annual regional sales performance in terms of total sales, AOV, and total orders? How did regional sales perform month by month in terms of total sales, AOV, total orders, and growth percentages in each region?
-4) Yearly Product Summary - What was the annual product sales performance, considering total sales, AOV, and total orders?
-How did products perform monthly in terms of sales, AOV, and total orders?
-What were the year-on-year growth percentages for each product?
-5) Marketing Channel Performance - What was the annual sales performance by marketing channel in terms of total sales, AOV, and total orders?
-6) Regional Delivery and Shipping Performance - What is the average time from purchase to shipping, shipping to delivery, and total time from purchase to delivery for each region? What were the yearly changes in delivery and shipping times by region?
-7) Regional Product Refunds - What are the product refund rates by region, and what are the yearly trends? Are there specific products or regions with higher refund rates? If so, what are the possible causes?
-8) Loyalty Programme Performance - What is the impact of the loyalty program on total sales, AOV, and total orders? How has the loyalty program contributed to year-on-year growth?
+8. LOYALTY PROGRAMME Performance (the impact of the loyalty program on total sales, AOV, and total orders)
 
 - Sales Trends and Customer Behavior:
 
