@@ -27,10 +27,16 @@ The project's primary goal is to offer insights and recommendations in the follo
 
 ![image](https://github.com/user-attachments/assets/a635fb5d-1e38-4326-8268-f9dbd6c8e38d)
 
-![image](https://github.com/user-attachments/assets/12d4c252-de64-4884-8393-aad1a3c9dc7a)
+![image](https://github.com/user-attachments/assets/6b91e9fc-03e8-47f7-b31b-b79628ce7092)
+
+Checks to identify any potential data quality issues:
+- Missing Column
+- Nulls
+- Misnamed Rows
+
+Issues Log file here
 
 Before starting the analysis, checks to gain an understanding of the data were performed to identify any potential data quality issues:
-
 - Check Datasets And Formats
 - Null Check
 - Duplicate Check
