@@ -20,8 +20,6 @@ order by o.purchase_date_year desc
 -- Top aov_sales = 2020 but not to much variation.
 -- Top total_orders = 2021 but avo_sales was lower than 2020
 
---What were the year-on-year sales growth percentages?
---?
 
 --2. MONTHLY SALES SUMMARY
 --What were the monthly sales, AOV, and total orders?
@@ -38,8 +36,6 @@ order by o.purchase_date_month
 --Avg Sales almost same every month
 --Total Orders better in months 3 > 5 > 4
 
---What were the month-on-month growth rates in sales, and how did these variations impact overall performance?
---??
 
 --3. REGIONAL SALES PERFORMANCE
 --What was the ANNUAL regional sales performance in terms of total sales, AOV, and total orders?
@@ -76,8 +72,6 @@ order by c.region, o.purchase_date_month
 ;
 --Total Sales better in months 5 > 3 > 4 (For ~ all region)
 
---What were the month-on-month growth percentages in each region?
---??
 
 --4. PRODUCT SALES PERFORMANCE
 --What was the ANNUAL product sales performance, considering total sales, AOV, and total orders?
@@ -113,8 +107,6 @@ group by o.product_name, o.purchase_date_month
 order by o.product_name, o.purchase_date_month
 ;
 
---What were the year-on-year growth percentages for each product?
---??
 
 --5. MARKETING CHANNEL SALES PERFORMANCE
 --What was the ANNUAK sales performance by marketing channel in terms of total sales, AOV, and total orders?
@@ -148,9 +140,6 @@ on c.id = o.customer_id
 group by c.marketing_channel, o.purchase_date_month
 order by c.marketing_channel, o.purchase_date_month
 ;
-
---What were the year-on-year growth rates by marketing channel?
---??
 
 --6. DELIVERY & SHIPPING PERFORMANCE (across different regions)
 --What is the AVERAGE TIME from purchase to shipping, shipping to delivery, and total time from purchase to delivery for each region?
@@ -239,6 +228,7 @@ group by c.region, os.purchase_date_year, o.product_name
 order by refund_rate desc
 ;
 --Apple iPhone top refund (LATAM), after Macbook Air Laptop and ThinkPad Laptop in other region
+
 
 --8. LOYALTY PROGRAMME PERFORMANCE
 --What is the impact of the loyalty program on total sales, AOV, and total orders?
