@@ -74,43 +74,72 @@ The SQL Queries answering the business questions above can be found **[here](htt
 
 ## Finds & Insights💡
 
-- Yearly Sales Trends:
-2020 peak performance: Total sales reached a high in 2020 with $7.23M, driven by higher average order values (AOV) and strong order volumes.
-2021-2022 sales decline: Sales dropped significantly by 47% from 2020 to 2021 and further by over 50% from 2021 to 2022. A focus should be placed on understanding what caused this rapid decline, whether it was competition, market saturation, or internal inefficiencies.
-AOV stability: Despite fluctuations in total orders, the average order value has remained relatively stable over the years, indicating consistent pricing or product bundling strategies.
+Annual Sales Performance:
+- The highest sales volume was recorded in 2020, with a significant drop in 2021 and an even more pronounced decline in 2022 (over 50% decrease between 2021 and 2022).
+- The average order value (AOV) was highest in 2020, but did not show a very significant variation over the years.
+- Although the number of orders was higher in 2021, the lower AOV indicates lower profitability per order.
 
-- Monthly Sales Patterns:
-Seasonality: Peak sales were observed in months 5 (May), 3 (March), and 4 (April) across all years. Promotions or market campaigns during these months might be driving higher sales, suggesting an opportunity to replicate successful tactics during other months.
-Total Orders: Higher total orders occurred in months 3 > 5 > 4, showing that certain months have more demand, even if the average order value doesn’t differ much.
+Regional Performance:
+- North America (NA) is the leading region in terms of sales, performing significantly better than EMEA, APAC, and LATAM.
+- Although Latin America has the lowest sales and order volume, return rates are relatively low.
+- The highest return rates were recorded in North America (1.86%), followed by APAC and LATAM.
 
-- Regional Sales Performance:
-NA dominance: North America (NA) consistently leads in total sales and orders, significantly outperforming other regions. It could indicate a larger or more engaged customer base, or better regional marketing strategies.
-Lower regional sales in LATAM: LATAM shows the lowest total sales and orders, suggesting that it is a potential growth region. Customizing marketing strategies and addressing regional needs could improve LATAM's performance.
+Product Sales Performance:
+- The 27-inch 4K monitor was the product with the highest annual sales in all analyzed years, with the MacBook Air and ThinkPad also standing out.
+- However, the AirPods had the highest number of orders, which shows popularity in terms of sales volume, but with a lower average ticket.
 
-- Product Sales Performance:
-27in 4K gaming monitor dominance: This product consistently leads in total sales across all years, suggesting high demand for this category.
-Apple Airpods Headphones – top ordered: While 27in 4K gaming monitor generates more revenue, Apple Airpods consistently leads in total orders, showing its popularity as a frequently purchased item.
-Opportunity to bundle products: High sales of Apple Airpods and monitors suggest potential cross-selling or bundling opportunities to boost overall sales.
+Marketing Channels:
+- The "direct" marketing channel generated the highest sales and order volume in all years, followed by "email," "affiliate," and "social media."
+- Social media channels showed the lowest sales volume, which may indicate an underutilization of this strategy or an audience less inclined to convert directly through social networks.
 
-- Marketing Channel Performance:
-Direct channel dominance: Direct sales lead consistently in all years. It suggests strong organic traffic and brand recognition, which can be leveraged further through exclusive offers to repeat customers.
-Social media underperformance: Social media consistently lags in total sales, which might indicate the need to reassess social strategies or to increase investment in social media advertising.
+Return Rates:
+- Apple products, such as the MacBook Air, ThinkPad Laptop, and iPhone, had the highest return rates. LATAM had the highest return rate for the iPhone, which may indicate product-related issues or consumer expectations in that region.
 
-- Shipping & Delivery Performance:
-Consistent delivery times across regions: There is little variation in delivery times across regions, which suggests a well-optimized supply chain. However, any slight delays in specific regions should still be addressed for better customer satisfaction.
-Efficiency focus: Maintaining these shipping and delivery standards while expanding or entering new markets will be key for sustaining customer satisfaction.
+Account Creation Methods:
+- The account creation method via desktop generated the highest average order value (AOV) in most years, standing out as the main method in terms of profitability per transaction.
 
-- Refund Rates:
-Higher refund rates in NA and APAC: NA shows the highest refund rate (1.86%), followed by APAC (1.74%). Understanding the reasons behind higher returns in these regions (e.g., product defects, misrepresentation, or unmet customer expectations) could help reduce these rates.
-Apple iPhone leads refunds in LATAM: The top product being refunded in LATAM is the Apple iPhone. Investigating whether the refunds are due to defects, shipping damage, or customer dissatisfaction could help in identifying solutions.
+Delivery & Shipping
+- The company has a relatively uniform shipping process across different regions, which is good for customer experience.
 
-- Loyalty Program Impact:
-Positive impact on sales: Customers in the loyalty program show higher total sales, indicating its success in promoting repeat purchases. Strengthening and expanding the program could further drive engagement and sales growth.
+Loyalty Program Performance
+- Loyalty program members contribute significantly to total sales and have a higher AOV, indicating that these customers are more valuable.
 
 ## Recommendations & Next Steps 🛠️
 
 Recommendations:
 
+Annual Sales Performance:
+- With the sharp decline in sales in 2021 and 2022, it is essential to review customer retention strategies and reactivate segments that have lost interest.
+- Campaigns focused on customers who have not made recent purchases, exclusive offers, and enhanced loyalty programs can help in recovery.
+
+Regional Performance:
+- Sales in Latin America are the lowest, but this region also has a low return rate. Investing in marketing campaigns and customer service in LATAM could open growth opportunities in a region that has not yet been fully explored.
+- Investigate product quality or customer support issues related to high-refund products like Apple iPhones.
+- Implement targeted customer support in NA to reduce the overall refund rate.
+
+Product Sales Performance:
+- Continue to push high-end products but balance the strategy by promoting accessories that can generate high order volumes.
+- Consider cross-selling or bundling strategies to promote premium products with smaller, high-frequency items.
+
+Marketing Channels:
+- Since social media channels generate fewer conversions, it is advisable to review the social media advertising strategy and focus on more targeted and creative campaigns that better connect with younger audiences, while optimizing the use of the "direct" channel, which has the highest performance.
+
+Return Rates:
+- Need to review the communication of expectations and post-purchase support services, especially in LATAM. 
+- A simpler return process or extended warranty could reduce customer dissatisfaction.
+
+Account Creation Methods:
+- Encourage account creation through desktop platforms and incentivize higher-value purchases with discounts or special offers.
+- Simplify the account creation process across all platforms to increase conversion rates.
+
+Delivery & Shipping
+- Continue optimizing logistics to ensure delivery times remain competitive, especially in regions with longer shipping distances like LATAM.
+
+Loyalty Program Performance
+- Enhance loyalty program offerings to encourage more customers to join.
+- Personalize marketing efforts for loyalty members with tailored promotions or early access to new products.
+
+In summary, my recommendations are:
 - Investigate the causes of the sales drop in 2021-2022: Conduct a detailed analysis of customer behavior, market conditions, and competition to understand the drastic drop in total sales, and implement corrective actions.
 - Leverage high-performing months: Replicate successful sales strategies from peak months (March-May) to boost performance during weaker months, possibly through seasonal promotions or targeted campaigns.
 - Strengthen presence in LATAM and APAC: Tailor marketing strategies, product offerings, and promotions to address regional preferences in LATAM and APAC, where performance is weaker but there is growth potential.
@@ -118,3 +147,5 @@ Recommendations:
 - Focus on reducing refund rates in NA and APAC: Investigate the causes behind high refund rates in NA and APAC, particularly for Apple iPhones in LATAM. Solutions like better product descriptions, customer education, or improved packaging could help reduce these rates.
 - Enhance cross-selling and bundling: Consider bundling popular items like the 27in 4K gaming monitor and Apple Airpods to boost average order values and overall sales.
 - Continue optimizing the loyalty program: The loyalty program has shown positive results, so expanding it by adding more tiers or benefits (e.g., early access to sales, special discounts) could further drive customer retention and repeat purchases.
+
+  ## Dashboards🔎
