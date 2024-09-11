@@ -182,5 +182,3 @@ group by o.customer_id
 having count(o.id) >= 4
 order by count(o.id) desc
 ;
-
---What is the average time between customer registration and their first order?
