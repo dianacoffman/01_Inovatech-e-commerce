@@ -106,8 +106,6 @@ Loyalty Program Performance
 
 ## Recommendations & Next Steps 🛠️
 
-Recommendations:
-
 Annual Sales Performance:
 - With the sharp decline in sales in 2021 and 2022, it is essential to review customer retention strategies and reactivate segments that have lost interest.
 - Campaigns focused on customers who have not made recent purchases, exclusive offers, and enhanced loyalty programs can help in recovery.
@@ -138,14 +136,3 @@ Delivery & Shipping
 Loyalty Program Performance
 - Enhance loyalty program offerings to encourage more customers to join.
 - Personalize marketing efforts for loyalty members with tailored promotions or early access to new products.
-
-In summary, my recommendations are:
-- Investigate the causes of the sales drop in 2021-2022: Conduct a detailed analysis of customer behavior, market conditions, and competition to understand the drastic drop in total sales, and implement corrective actions.
-- Leverage high-performing months: Replicate successful sales strategies from peak months (March-May) to boost performance during weaker months, possibly through seasonal promotions or targeted campaigns.
-- Strengthen presence in LATAM and APAC: Tailor marketing strategies, product offerings, and promotions to address regional preferences in LATAM and APAC, where performance is weaker but there is growth potential.
-- Boost social media marketing: Given that social media is underperforming, re-evaluate the content, targeting, and investment in these channels. More engaging campaigns or collaborations could help drive traffic and sales.
-- Focus on reducing refund rates in NA and APAC: Investigate the causes behind high refund rates in NA and APAC, particularly for Apple iPhones in LATAM. Solutions like better product descriptions, customer education, or improved packaging could help reduce these rates.
-- Enhance cross-selling and bundling: Consider bundling popular items like the 27in 4K gaming monitor and Apple Airpods to boost average order values and overall sales.
-- Continue optimizing the loyalty program: The loyalty program has shown positive results, so expanding it by adding more tiers or benefits (e.g., early access to sales, special discounts) could further drive customer retention and repeat purchases.
-
-  ## Dashboards🔎
