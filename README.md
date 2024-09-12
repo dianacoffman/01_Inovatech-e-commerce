@@ -136,3 +136,10 @@ Delivery & Shipping
 Loyalty Program Performance
 - Enhance loyalty program offerings to encourage more customers to join.
 - Personalize marketing efforts for loyalty members with tailored promotions or early access to new products.
+
+
+![image](https://github.com/user-attachments/assets/a8b7f44c-11d6-48c0-8c44-3cc42aa1e9c9)
+![image](https://github.com/user-attachments/assets/a6cd6b76-94dc-4bdd-bed0-30c7e3d91b14)
+
+
+
