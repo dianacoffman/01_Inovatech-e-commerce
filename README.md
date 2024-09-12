@@ -76,7 +76,7 @@ The SQL Queries answering the business questions above can be found **[here](htt
 
 ![image](https://github.com/user-attachments/assets/380dcc20-4b53-45ca-8508-14ef2a0b2bb6)
 
-![image](https://github.com/user-attachments/assets/f0f919ab-820c-4486-b4da-43e2cd1b9931)
+![image](https://github.com/user-attachments/assets/823760e9-ce21-4f82-bac0-3faf132cb47f)
 
 ## Finds & Insights💡
 
