@@ -9,9 +9,9 @@ The goal is to uncover trends in sales trends, customer behavior, refund pattern
 - Introduction & Storymap
 - Dataset Structure, Data Cleaning & Initial Checks
 - Business Questions & Exploratory Data Analysis
+- Dashboards
 - Finds & Insights
 - Recommendations & Next Steps
-- Dashboards
 
 ## Introduction & Storymap📝🔎
 
