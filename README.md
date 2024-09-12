@@ -45,9 +45,6 @@ Before starting the analysis, checks to gain an understanding of the data were p
 SQL check codes to identify problems in tables can be found **[here](https://github.com/dianacoffman/01_Inovatech-e-commerce/blob/main/SQL_Inovatech/Data_Checks_Inovatech.sql)**.
 
 
-![image](https://github.com/user-attachments/assets/1c43905c-8b08-4221-b075-589a55f211e8)
-
-
 ## Business Questions & Exploratory Data Analysis ⚖️🎯
 
 We separate our analysis into two types of analysis: Commercial Performance Analysis and Sales Trends/Customer Behavior.
