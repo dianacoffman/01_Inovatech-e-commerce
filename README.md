@@ -74,9 +74,18 @@ The SQL Queries answering the business questions above can be found **[here](htt
 
 ## Dashboards📝🔎
 
+These dashboards provide a comprehensive view of the company's performance in terms of products, customer behavior and sales regions. They allow you to understand which products and regions generate the most revenue, which marketing channels are most effective and how sales have evolved over the years. The analysis also allows you to identify possible areas for improvement, such as optimizing marketing channels, reviewing product strategies and exploring new regions.
+
 ![image](https://github.com/user-attachments/assets/380dcc20-4b53-45ca-8508-14ef2a0b2bb6)
 
 ![image](https://github.com/user-attachments/assets/823760e9-ce21-4f82-bac0-3faf132cb47f)
+
+The dashboards include:
+- Insights Overview: A summary of key metrics such as Revenue, AOV (Average Order Value), Total Customers and Total Orders, and the section also displays overall Performance by Marketing Channel, Regional Performance and Account Creation Performance, complementing the more detailed analysis on the specific page.
+- Product Performance: This section presents an analysis of sales and performance of specific products over time.
+- Customer Behavior: This section is divided into three parts, such as Performance of Account Creation Methods, Performance of Marketing Channels and Regional Performance.
+
+The dashboard can be found here.
 
 ## Finds & Insights💡
 
