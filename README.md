@@ -72,6 +72,12 @@ The SQL Queries answering the business questions above can be found **[here](htt
 
 The SQL Queries answering the business questions above can be found **[here](https://github.com/dianacoffman/01_Inovatech-e-commerce/blob/main/SQL_Inovatech/Sales_Trends_and_Customer_Behavior_Inovatech.sql)**.
 
+## Dashboards📝🔎
+
+![image](https://github.com/user-attachments/assets/380dcc20-4b53-45ca-8508-14ef2a0b2bb6)
+
+![image](https://github.com/user-attachments/assets/f0f919ab-820c-4486-b4da-43e2cd1b9931)
+
 ## Finds & Insights💡
 
 Annual Sales Performance:
@@ -137,9 +143,6 @@ Loyalty Program Performance
 - Enhance loyalty program offerings to encourage more customers to join.
 - Personalize marketing efforts for loyalty members with tailored promotions or early access to new products.
 
-
-![image](https://github.com/user-attachments/assets/a8b7f44c-11d6-48c0-8c44-3cc42aa1e9c9)
-![image](https://github.com/user-attachments/assets/a6cd6b76-94dc-4bdd-bed0-30c7e3d91b14)
 
 
 
