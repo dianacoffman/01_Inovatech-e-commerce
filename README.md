@@ -1,6 +1,7 @@
 ## Overview 📖
 
-This project involves delving into data-driven insights from Inovatech, a global e-commerce platform specializing in consumer electronics. The goal is to uncover trends in sales trends, customer behavior, refund patterns, marketing channel effectiveness, understand regional performance, loyalty program effectiveness, and product-specific behaviors, and recommend strategies to optimize marketing and sales processes across different regions and customer segments. By analyzing comprehensive datasets related to sales, marketing channels, customer behavior, and product returns, we aim to provide actionable insights that can improve Inovatech’s business performance.
+This project involves delving into data-driven insights from Inovatech, a global e-commerce platform specializing in consumer electronics. 
+The goal is to uncover sales trends, customer behavior, refund patterns, marketing channel effectiveness, understand regional performance, loyalty program effectiveness, and product-specific behaviors, and recommend strategies to optimize marketing and sales processes across different regions and customer segments. By analyzing comprehensive datasets related to sales, marketing channels, customer behavior, and product returns, we aim to provide actionable insights that can improve Inovatech’s business performance.
 
 The analysis uses tools such as SQL, Excel, and Power BI, and covers four comprehensive datasets with over 225,000 rows of information. These datasets capture critical business metrics across four sales channels, four account creation methods, and over 70 regions worldwide.
 
