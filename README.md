@@ -88,25 +88,25 @@ The dashboard can be found **[here](https://github.com/dianacoffman/01_Inovatech
 ## Finds & Insights💡
 
 Annual Sales Performance:
-- The highest sales volume was recorded in 2020, with a significant drop in 2021 and an even more pronounced decline in 2022 (over 50% decrease between 2021 and 2022).
-- The average order value (AOV) was highest in 2020, but did not show a very significant variation over the years.
+- The highest sales volume was recorded in 2020, with a significant drop in 2021 and an even more pronounced decline in 2022 (over 50% sales decrease between 2021 and 2022).
+- The average order value (AOV) was highest in 2020, but AOV did not show a very significant variation over the years.
 - Although the number of orders was higher in 2021, the lower AOV indicates lower profitability per order.
 
 Regional Performance:
-- North America (NA) is the leading region in terms of sales, performing significantly better than EMEA, APAC, and LATAM.
+- North America (NA) is the leading region in sales, performing significantly better than EMEA, APAC, and LATAM.
 - Although Latin America has the lowest sales and order volume, return rates are relatively low.
-- The highest return rates were recorded in North America (1.86%), followed by APAC and LATAM.
 
 Product Sales Performance:
 - The 27-inch 4K monitor was the product with the highest annual sales in all analyzed years, with the MacBook Air and ThinkPad also standing out.
-- However, the AirPods had the highest number of orders, which shows popularity in terms of sales volume, but with a lower average ticket.
+- However, the AirPods has the highest number of orders, which shows popularity in terms of sales volume, but with a lower average ticket.
 
 Marketing Channels:
 - The "direct" marketing channel generated the highest sales and order volume in all years, followed by "email," "affiliate," and "social media."
 - Social media channels showed the lowest sales volume, which may indicate an underutilization of this strategy or an audience less inclined to convert directly through social networks.
 
 Return Rates:
-- Apple products, such as the MacBook Air, ThinkPad Laptop, and iPhone, had the highest return rates. LATAM had the highest return rate for the iPhone, which may indicate product-related issues or consumer expectations in that region.
+- The highest return rates were recorded in North America (1.86%), followed by APAC and LATAM.
+- The MacBook Air, ThinkPad Laptop, and iPhone, had the highest return rates. 
 
 Account Creation Methods:
 - The account creation method via desktop generated the highest average order value (AOV) in most years, standing out as the main method in terms of profitability per transaction.
@@ -125,12 +125,12 @@ Annual Sales Performance:
 
 Regional Performance:
 - Sales in Latin America are the lowest, but this region also has a low return rate. Investing in marketing campaigns and customer service in LATAM could open growth opportunities in a region that has not yet been fully explored.
-- Investigate product quality or customer support issues related to high-refund products like Apple iPhones.
 - Implement targeted customer support in NA to reduce the overall refund rate.
 
 Product Sales Performance:
 - Continue to push high-end products but balance the strategy by promoting accessories that can generate high order volumes.
-- Consider cross-selling or bundling strategies to promote premium products with smaller, high-frequency items.
+- Consider cross-selling strategies to promote premium products with smaller, high-frequency items.
+- Investigate product quality or customer support issues related to high-refund products like Apple iPhones.
 
 Marketing Channels:
 - Since social media channels generate fewer conversions, it is advisable to review the social media advertising strategy and focus on more targeted and creative campaigns that better connect with younger audiences, while optimizing the use of the "direct" channel, which has the highest performance.
@@ -141,7 +141,7 @@ Return Rates:
 
 Account Creation Methods:
 - Encourage account creation through desktop platforms and incentivize higher-value purchases with discounts or special offers.
-- Simplify the account creation process across all platforms to increase conversion rates.
+- Understand the gaps and simplify the in account creation process across another platforms.
 
 Delivery & Shipping
 - Continue optimizing logistics to ensure delivery times remain competitive, especially in regions with longer shipping distances like LATAM.
@@ -150,6 +150,31 @@ Loyalty Program Performance
 - Enhance loyalty program offerings to encourage more customers to join.
 - Personalize marketing efforts for loyalty members with tailored promotions or early access to new products.
 
+## RoadMap 12 month & Action Plan
 
+1. Sales Recovery Strategy
+Objective: Increase sales and customer retention after the decline in 2021 and 2022.
+Actions:
+- Customer Segmentation: Identify segments of customers who have not made purchases in the last 12-18 months and create targeted campaigns.
+- Exclusive Offers: Design special promotions (e.g., discounts, free shipping) for returning customers.
+- Loyalty Program Enhancement: Enhance the existing loyalty program by adding tiers or offering unique rewards based on purchase history.
+- Timeline: 4 months for campaign setup and launch.
+- Owner: Marketing & CRM Team.
 
+2. Optimize Marketing Channels
+- Objective: Improve conversion rates from social media channels while continuing to maximize performance from direct channels.
+Actions:
+- Social Media Strategy Overhaul: Redesign social media campaigns with more personalized and engaging content aimed at younger audiences.
+- Direct Channel Focus: Optimize the direct channel by improving the user experience on landing pages and offering immediate checkout incentives.
+- A/B Testing: Implement A/B testing for all marketing channels to evaluate performance and make data-driven adjustments.
+- Timeline: 3 months for campaign revisions and testing.
+- Owner: Digital Marketing Team.
 
+3. Regional Expansion in LATAM
+Objective: Grow market share in Latin America by leveraging low return rates and improving marketing efforts.
+Actions:
+- Market Research: Conduct deeper research to understand customer preferences and pain points in LATAM.
+- Localized Campaigns: Develop region-specific marketing campaigns with a focus on the unique cultural and consumer behaviors in LATAM.
+- Customer Support: Implement localized customer service initiatives, such as a dedicated support team and local-language documentation.
+- Timeline: 5 months for research, campaign creation, and support launch.
+- Owner: Regional Marketing Team & Customer Support.
