@@ -25,7 +25,8 @@ The project's primary goal is to offer insights and recommendations in the follo
 
 ## Dataset Structure, Data Cleaning & Initial Checks 📑
 
-![image](https://github.com/user-attachments/assets/6b91e9fc-03e8-47f7-b31b-b79628ce7092)
+![image](https://github.com/user-attachments/assets/7ee3244a-3e5a-4105-800f-2cb0e49d38f1)
+
 
 Checks to identify any potential data quality issues:
 - Missing Column
