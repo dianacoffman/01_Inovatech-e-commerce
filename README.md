@@ -11,7 +11,8 @@ The goal is to uncover trends in sales trends, customer behavior, refund pattern
 - Business Questions & Exploratory Data Analysis
 - Dashboards
 - Finds & Insights
-- Recommendations & Next Steps
+- Recommendations
+- Next Steps: RoadMap 12 month & Action Plan
 
 ## Introduction & Storymap📝🔎
 
@@ -150,10 +151,11 @@ Loyalty Program Performance
 - Enhance loyalty program offerings to encourage more customers to join.
 - Personalize marketing efforts for loyalty members with tailored promotions or early access to new products.
 
-## RoadMap 12 month & Action Plan
-
+## Next Steps: RoadMap 12 month & Action Plan
+(Suggestion: Start the action plan in October 2024)
 1. Sales Recovery Strategy
 Objective: Increase sales and customer retention after the decline in 2021 and 2022.
+
 Actions:
 - Customer Segmentation: Identify segments of customers who have not made purchases in the last 12-18 months and create targeted campaigns.
 - Exclusive Offers: Design special promotions (e.g., discounts, free shipping) for returning customers.
@@ -163,6 +165,7 @@ Actions:
 
 2. Optimize Marketing Channels
 - Objective: Improve conversion rates from social media channels while continuing to maximize performance from direct channels.
+
 Actions:
 - Social Media Strategy Overhaul: Redesign social media campaigns with more personalized and engaging content aimed at younger audiences.
 - Direct Channel Focus: Optimize the direct channel by improving the user experience on landing pages and offering immediate checkout incentives.
@@ -172,6 +175,7 @@ Actions:
 
 3. Regional Expansion in LATAM
 Objective: Grow market share in Latin America by leveraging low return rates and improving marketing efforts.
+
 Actions:
 - Market Research: Conduct deeper research to understand customer preferences and pain points in LATAM.
 - Localized Campaigns: Develop region-specific marketing campaigns with a focus on the unique cultural and consumer behaviors in LATAM.
