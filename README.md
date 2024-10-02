@@ -54,7 +54,6 @@ Given that loyalty program members have demonstrated significantly higher spendi
 1. Sales Recovery Strategy
 Objective: Increase sales and customer retention after the decline in 2021 and 2022.
 
-Actions:
 - Customer Segmentation: Identify segments of customers who have not made purchases in the last 12-18 months and create targeted campaigns.
 - Exclusive Offers: Design special promotions (e.g., discounts, free shipping) for returning customers.
 - Loyalty Program Enhancement: Enhance the existing loyalty program by adding tiers or offering unique rewards based on purchase history.
@@ -64,7 +63,6 @@ Actions:
 2. Regional Expansion in LATAM
 Objective: Grow market share in Latin America by leveraging low return rates and improving marketing efforts.
 
-Actions:
 - Market Research: Conduct deeper research to understand customer preferences and pain points in LATAM.
 - Localized Campaigns: Develop region-specific marketing campaigns with a focus on the unique cultural and consumer behaviors in LATAM.
 - Customer Support: Implement localized customer service initiatives, such as a dedicated support team and local-language documentation.
