@@ -1,12 +1,12 @@
 ## Overview 📖
 
-This project focused on delving into data-driven insights from Inovatech, a global e-commerce platform for consumer electronics. The goal is to uncover  trends in sales, products performance, customer behavior, refund patterns, and marketing effectiveness to provide insights on Inovatech's performance across many different areas of the business, capturing metrics from the sales channels, loyalty program, account creation methods, and regions. I provide recommendations based on these insights on where Inovatech should focus efforts to improve marketing strategy, sales processes, and operations efficiency.
+This project focused on uncovering data-driven insights from Inovatech, a global e-commerce platform for consumer electronics. The goal was to identify trends in sales, product performance, customer behavior, refund patterns, and marketing effectiveness, providing a comprehensive view of Inovatech's performance across various areas of the business. Metrics were analyzed from sales channels, the loyalty program, account creation methods, and regions. Based on these insights, I provided recommendations on where Inovatech should focus its efforts to improve marketing strategy, sales processes, and operational efficiency.
 
 I used a combination of SQL, Excel, and Power BI, and statistical analysis to clean, analyze, and summarize these insights to deliver to the marketing, product and operations teams.
 
 ## Table of Contents 📚
 
-- Introduction & Storymap
+- Introduction
 - Dataset Structure, Data Cleaning & Initial Checks
 - Business Questions & Exploratory Data Analysis
 - Dashboards
@@ -14,63 +14,29 @@ I used a combination of SQL, Excel, and Power BI, and statistical analysis to cl
 - Recommendations
 - Next Steps: RoadMap 12 month & Action Plan
 
-## Introduction & Storymap📝🔎
+## Introduction 📝🔎
 
-About Inovatech, it is an innovative e-commerce platform dedicated to providing the latest consumer electronics and accessories to customers worldwide. 
-
-The challenge is that their extensive database covers sales figures, marketing efforts, operational efficiency, product range, and loyalty program data hadn't been analyzed since 2018, and the company has no direction on where to follow, regarding the performance of its products, sales channels or regions where to invest more in its campaigns. These data are now being comprehensively analyzed to reveal insights aimed at enhancing Inovatech's business performance.
-
-The project's primary goal is to offer insights and recommendations in the following core areas:
+The challenge is that their extensive database hadn't been analyzed since 2018, and the company has no direction on where to go. Then, the project's primary goal is to offer insights and recommendations in the following core areas:
 - Sales: This involves a deep understanding of best-selling products, product performance analysis, identifying regions with high sales potential, and assessing different sales channels.
-- Customer Behavior: Evaluating the effectiveness of the loyalty program, analysing product returns, and examining various marketing channels and their return on investment.
+- Customer Behavior: Evaluating the effectiveness of the loyalty program, analysing product refund, and examining various marketing channels and their return on investment.
 
 ## Dataset Structure, Data Cleaning & Initial Checks 📑
 
 ![image](https://github.com/user-attachments/assets/7ee3244a-3e5a-4105-800f-2cb0e49d38f1)
 
+The dataset provides customer and sales data. The raw dataset consists of about 225,000 rows:
 
-Checks to identify any potential data quality issues:
-- Missing Column
-- Nulls
-- Misnamed Rows
-
-Issues Log file **[here](https://github.com/dianacoffman/01_Inovatech-e-commerce/blob/main/issue_log.xlsx)**.
-
-Before starting the analysis, checks to gain an understanding of the data were performed to identify any potential data quality issues:
-- Check Datasets And Formats
-- Null Check
-- Duplicate Check
-- Price Statistics Test
-- Purchase Date Range
-- Product Order Counts
+Steps taken to clean, check data quality and prep the dataset for analysis can be found **[here](https://github.com/dianacoffman/01_Inovatech-e-commerce/blob/main/issue_log.xlsx)**.
 
 SQL check codes to identify problems in tables can be found **[here](https://github.com/dianacoffman/01_Inovatech-e-commerce/blob/main/SQL_Inovatech/Data_Checks_Inovatech.sql)**.
-
 
 ## Business Questions & Exploratory Data Analysis ⚖️🎯
 
 We separate our analysis into two types of analysis: Commercial Performance Analysis and Sales Trends/Customer Behavior.
 
-- Commercial Performance Analysis:
-1.	Yearly Sales Summary (total sales, average order value (AOV), total orders, and year-on-year sales growth percentages)
-2.	Monthly Sales Summary (total sales, average order value (AOV), total orders, and month-on-month sales growth percentages)
-3.	Regional Sales Performance
-4.	Product Sales Performance
-5.	Marketing Channel Sales Performance
-6.	Delivery & Shipping Performance (Average time from purchase to shipping, shipping to delivery / total time from purchase to delivery across different regions, years, and months)
-7.	Regional Product Refunds (product higher refund rates by region, and what are the yearly trends)
-8.	Loyalty Program Performance (the impact of the loyalty program on total sales, AOV, and total orders)
+The SQL Queries with the Commercial Performance Analysis finds can be found **[here](https://github.com/dianacoffman/01_Inovatech-e-commerce/blob/main/SQL_Inovatech/Commercial_Performance_Analysis_Inovatech.sql)**.
 
-
-The SQL Queries answering the business questions above can be found **[here](https://github.com/dianacoffman/01_Inovatech-e-commerce/blob/main/SQL_Inovatech/Commercial_Performance_Analysis_Inovatech.sql)**.
-
-- Sales Trends and Customer Behavior:
-1.	Refund Rate (Most Refunded Products / Product Refund Frequency (Top 3) across all years / Monthly Apple Product Refunds in 2021)
-2.	Account Creation Methods Performance (Average order value across different account creation methods / Which method had the newest customers)
-3.	Marketing Channels Performance (Which marketing channels perform the best in each region / how do the top channels differ across regions)
-4.	Customer order patterns (Average time between customer registration and their first order / Customers who made more than 4 orders across all years, what was the order ID, product, and purchase date of their most recent order)
-
-The SQL Queries answering the business questions above can be found **[here](https://github.com/dianacoffman/01_Inovatech-e-commerce/blob/main/SQL_Inovatech/Sales_Trends_and_Customer_Behavior_Inovatech.sql)**.
+The SQL Queries with the Sales Trends/Customer Behavior finds can be found **[here](https://github.com/dianacoffman/01_Inovatech-e-commerce/blob/main/SQL_Inovatech/Sales_Trends_and_Customer_Behavior_Inovatech.sql)**.
 
 ## Dashboards📝🔎
 
