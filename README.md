@@ -4,21 +4,15 @@ This project focused on uncovering data-driven insights from Inovatech, a global
 
 I used a combination of SQL, Excel, and Power BI, and statistical analysis to clean, analyze, and summarize these insights to deliver to the marketing, product and operations teams.
 
-## Introduction 📝🔎
-
-The challenge is that their extensive database hadn't been analyzed since 2018, and the company has no direction on where to go. Then, the project's primary goal is to offer insights and recommendations in the following core areas:
-- Sales: This involves a deep understanding of best-selling products, product performance analysis, identifying regions with high sales potential, and assessing different sales channels.
-- Customer Behavior: Evaluating the effectiveness of the loyalty program, analysing product refund, and examining various marketing channels and their return on investment.
-
 ## Dataset Structure, Data Cleaning & Initial Checks 📑
-
-![image](https://github.com/user-attachments/assets/7ee3244a-3e5a-4105-800f-2cb0e49d38f1)
 
 The dataset provides customer and sales data. The raw dataset consists of about 225,000 rows:
 
 Steps taken to clean, check data quality and prep the dataset for analysis can be found **[here](https://github.com/dianacoffman/01_Inovatech-e-commerce/blob/main/issue_log.xlsx)**.
 
 SQL check codes to identify problems in tables can be found **[here](https://github.com/dianacoffman/01_Inovatech-e-commerce/blob/main/SQL_Inovatech/Data_Checks_Inovatech.sql)**.
+
+![image](https://github.com/user-attachments/assets/7ee3244a-3e5a-4105-800f-2cb0e49d38f1)
 
 ## Business Questions & Exploratory Data Analysis ⚖️🎯
 
