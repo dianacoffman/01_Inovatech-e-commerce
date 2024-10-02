@@ -12,10 +12,7 @@ Steps taken to clean, check data quality and prep the dataset for analysis can b
 
 SQL check codes to identify problems in tables can be found **[here](https://github.com/dianacoffman/01_Inovatech-e-commerce/blob/main/SQL_Inovatech/Data_Checks_Inovatech.sql)**.
 
-![image](https://github.com/user-attachments/assets/7ee3244a-3e5a-4105-800f-2cb0e49d38f1)
-
 ![image](https://github.com/user-attachments/assets/5e9eed59-b866-403c-bab7-e758b09a08fe)
-
 
 ## Business Questions & Exploratory Data Analysis ⚖️🎯
 
@@ -31,70 +28,26 @@ The dashboard can be found in Power BI **[here](https://github.com/dianacoffman/
 
 ![image](https://github.com/user-attachments/assets/823760e9-ce21-4f82-bac0-3faf132cb47f)
 
+![image](https://github.com/user-attachments/assets/823760e9-ce21-4f82-bac0-3faf132cb47f)
+
 ## Finds & Insights💡
 
-Annual Sales Performance:
-- The highest sales volume was recorded in 2020, with a significant drop in 2021 and an even more pronounced decline in 2022 (over 50% sales decrease between 2021 and 2022).
-- The average order value (AOV) was highest in 2020, but AOV did not show a very significant variation over the years.
-- Although the number of orders was higher in 2021, the lower AOV indicates lower profitability per order.
+In terms of annual sales performance, the highest volume was recorded in 2020, followed by a sharp decline in 2021 and an even more pronounced drop of over 50% in 2022. Although the number of orders was higher in 2021, the lower AOV indicated reduced profitability per order. Regarding regional performance, North America led in sales, outperforming EMEA, APAC, and LATAM. However, Latin America had the lowest sales and order volume.
 
-Regional Performance:
-- North America (NA) is the leading region in sales, performing significantly better than EMEA, APAC, and LATAM.
-- Although Latin America has the lowest sales and order volume, return rates are relatively low.
+About the product sales performance, the 27-inch 4K monitor was the best-selling product annually in all analyzed years, leading the top-selling products with 30% of total product sales each year. Meanwhile, the Bose Soundsport headphones accounted for less than 1% of total product sales annually, making it a very low-performing product in terms of sales. As for marketing channels, the "direct" channel generated the highest sales and order volume in all years, followed by "email," "affiliate," and "social media." It is important to note that the email marketing channel has increasingly contributed to total sales, growing by more than 40% in 2022 compared to 2019. However, social media showed the lowest sales volume, representando apenas 1% da receita total e dos pedidos, suggesting either underutilization of this strategy or an audience less inclined to convert directly through social networks.
 
-Product Sales Performance:
-- The 27-inch 4K monitor was the product with the highest annual sales in all analyzed years, with the MacBook Air and ThinkPad also standing out.
-- However, the AirPods has the highest number of orders, which shows popularity in terms of sales volume, but with a lower average ticket.
-
-Marketing Channels:
-- The "direct" marketing channel generated the highest sales and order volume in all years, followed by "email," "affiliate," and "social media."
-- Social media channels showed the lowest sales volume, which may indicate an underutilization of this strategy or an audience less inclined to convert directly through social networks.
-
-Return Rates:
-- The highest return rates were recorded in North America (1.86%), followed by APAC and LATAM.
-- The MacBook Air, ThinkPad Laptop, and iPhone, had the highest return rates. 
-
-Account Creation Methods:
-- The account creation method via desktop generated the highest average order value (AOV) in most years, standing out as the main method in terms of profitability per transaction.
-
-Delivery & Shipping
-- The company has a relatively uniform shipping process across different regions, which is good for customer experience.
-
-Loyalty Program Performance
-- Loyalty program members contribute significantly to total sales and have a higher AOV, indicating that these customers are more valuable.
+Regarding delivery and shipping, the company maintained a relatively uniform process across different regions and products, with an average delivery time of 7 to 8 days, contributing to a positive customer experience. The performance of the loyalty program was also noteworthy. In 2022, loyalty program members spent approximately 19.14% more on average than non-members, significantly contributing to total sales and with a higher AOV, indicating that these customers are more valuable.
 
 ## Recommendations & Next Steps 🛠️
 
-Annual Sales Performance:
-- With the sharp decline in sales in 2021 and 2022, it is essential to review customer retention strategies and reactivate segments that have lost interest.
-- Campaigns focused on customers who have not made recent purchases, exclusive offers, and enhanced loyalty programs can help in recovery.
+Sales Performance:
+Inovatech should investigate the reasons behind the sharp decline in sales from 2021 to 2022, focusing on understanding the factors that contributed to the reduction in AOV and the decrease in total sales. Consequently, the Bose Soundsport Headphones product line should be revisited, given its weak sales performance. The team should consider discontinuing it, as well as evaluating other lines that have not generated significant sales. Additionally, since the 27-inch 4K monitor has consistently been the best-selling product, the company should explore opportunities to expand this product line or introduce variants that could attract more customers.
 
-Regional Performance:
-- Sales in Latin America are the lowest, but this region also has a low return rate. Investing in marketing campaigns and customer service in LATAM could open growth opportunities in a region that has not yet been fully explored.
-- Implement targeted customer support in NA to reduce the overall refund rate.
+Marketing Channels and Customer Experience:
+The efforts in social media marketing should be reevaluated, considering their low contribution to sales, indicating that the target consumer audience may not be present on these platforms. On the other hand, it is recommended to continue investing in direct marketing and email channels, as these have shown continuous growth and positive impact on sales. Email communication should be optimized to further engage customers and increase conversion rates. Furthermore, while the uniformity of the delivery process and the average delivery time of 7 to 8 days are positive, it is worthwhile to evaluate partnerships with new logistics providers to enhance this experience and meet the growing expectations of consumers.
 
-Product Sales Performance:
-- Continue to push high-end products but balance the strategy by promoting accessories that can generate high order volumes.
-- Consider cross-selling strategies to promote premium products with smaller, high-frequency items.
-- Investigate product quality or customer support issues related to high-refund products like Apple iPhones.
-
-Marketing Channels:
-- Since social media channels generate fewer conversions, it is advisable to review the social media advertising strategy and focus on more targeted and creative campaigns that better connect with younger audiences, while optimizing the use of the "direct" channel, which has the highest performance.
-
-Return Rates:
-- Need to review the communication of expectations and post-purchase support services, especially in LATAM. 
-- A simpler return process or extended warranty could reduce customer dissatisfaction.
-
-Account Creation Methods:
-- Encourage account creation through desktop platforms and incentivize higher-value purchases with discounts or special offers.
-- Understand the gaps and simplify the in account creation process across another platforms.
-
-Delivery & Shipping
-- Continue optimizing logistics to ensure delivery times remain competitive, especially in regions with longer shipping distances like LATAM.
-
-Loyalty Program Performance
-- Enhance loyalty program offerings to encourage more customers to join.
-- Personalize marketing efforts for loyalty members with tailored promotions or early access to new products.
+Loyalty Program:
+Given that loyalty program members have demonstrated significantly higher spending than non-members, the team recommends expanding the program's benefits, perhaps by introducing additional rewards to encourage more customers to become members. This could further help increase sales and brand loyalty.
 
 ## Next Steps: RoadMap 12 month & Action Plan
 (Suggestion: Start the action plan in October 2024)
@@ -108,17 +61,7 @@ Actions:
 - Timeline: 4 months for campaign setup and launch.
 - Owner: Marketing & CRM Team.
 
-2. Optimize Marketing Channels
-- Objective: Improve conversion rates from social media channels while continuing to maximize performance from direct channels.
-
-Actions:
-- Social Media Strategy Overhaul: Redesign social media campaigns with more personalized and engaging content aimed at younger audiences.
-- Direct Channel Focus: Optimize the direct channel by improving the user experience on landing pages and offering immediate checkout incentives.
-- A/B Testing: Implement A/B testing for all marketing channels to evaluate performance and make data-driven adjustments.
-- Timeline: 3 months for campaign revisions and testing.
-- Owner: Digital Marketing Team.
-
-3. Regional Expansion in LATAM
+2. Regional Expansion in LATAM
 Objective: Grow market share in Latin America by leveraging low return rates and improving marketing efforts.
 
 Actions:
