@@ -4,16 +4,6 @@ This project focused on uncovering data-driven insights from Inovatech, a global
 
 I used a combination of SQL, Excel, and Power BI, and statistical analysis to clean, analyze, and summarize these insights to deliver to the marketing, product and operations teams.
 
-## Table of Contents 📚
-
-- Introduction
-- Dataset Structure, Data Cleaning & Initial Checks
-- Business Questions & Exploratory Data Analysis
-- Dashboards
-- Finds & Insights
-- Recommendations
-- Next Steps: RoadMap 12 month & Action Plan
-
 ## Introduction 📝🔎
 
 The challenge is that their extensive database hadn't been analyzed since 2018, and the company has no direction on where to go. Then, the project's primary goal is to offer insights and recommendations in the following core areas:
