@@ -14,6 +14,9 @@ SQL check codes to identify problems in tables can be found **[here](https://git
 
 ![image](https://github.com/user-attachments/assets/7ee3244a-3e5a-4105-800f-2cb0e49d38f1)
 
+![image](https://github.com/user-attachments/assets/5e9eed59-b866-403c-bab7-e758b09a08fe)
+
+
 ## Business Questions & Exploratory Data Analysis ⚖️🎯
 
 We separate our analysis into two types of analysis: Commercial Performance Analysis and Sales Trends-Customer Behavior.
