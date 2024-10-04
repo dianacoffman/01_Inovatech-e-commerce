@@ -26,7 +26,7 @@ The SQL Queries with the Sales Trends-Customer Behavior finds can be found **[he
 
 The dashboard can be found in Power BI **[here](https://github.com/dianacoffman/01_Inovatech-e-commerce/blob/main/Dashboards%20Data-Driven%20Insights%20into%20Inovatech.pbix)**. This dashboard enables users to filter by customer region, country, and country code, focusing on sales and marketing metrics.
 
-![image](https://github.com/user-attachments/assets/823760e9-ce21-4f82-bac0-3faf132cb47f)
+![image](https://github.com/user-attachments/assets/380dcc20-4b53-45ca-8508-14ef2a0b2bb6)
 
 ![image](https://github.com/user-attachments/assets/823760e9-ce21-4f82-bac0-3faf132cb47f)
 
