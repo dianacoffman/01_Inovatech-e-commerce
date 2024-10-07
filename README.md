@@ -14,6 +14,9 @@ SQL check codes to identify problems in tables can be found **[here](https://git
 
 ![image](https://github.com/user-attachments/assets/5e9eed59-b866-403c-bab7-e758b09a08fe)
 
+![image](https://github.com/user-attachments/assets/b0d42675-9338-4492-af0e-f32711a5c26b)
+
+
 ## Business Questions & Exploratory Data Analysis ⚖️🎯
 
 We separate our analysis into two types of analysis: Commercial Performance Analysis and Sales Trends-Customer Behavior.
@@ -26,9 +29,8 @@ The SQL Queries with the Sales Trends-Customer Behavior finds can be found **[he
 
 The dashboard can be found in Power BI **[here](https://github.com/dianacoffman/01_Inovatech-e-commerce/blob/main/Dashboards%20Data-Driven%20Insights%20into%20Inovatech.pbix)**. This dashboard enables users to filter by customer region, country, and country code, focusing on sales and marketing metrics.
 
-![image](https://github.com/user-attachments/assets/380dcc20-4b53-45ca-8508-14ef2a0b2bb6)
+![image](https://github.com/user-attachments/assets/9e8a1741-19ad-4b29-9c17-07e68a4ee01d)
 
-![image](https://github.com/user-attachments/assets/823760e9-ce21-4f82-bac0-3faf132cb47f)
 
 ## Finds & Insights💡
 
