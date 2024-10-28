@@ -32,7 +32,7 @@ The dashboard can be found in Power BI **[here](https://github.com/dianacoffman/
 
 ## Finds & Insights💡
 
-# Overall trends:
+- Overall trends:
 
 In terms of annual sales performance, the highest volume was recorded in 2020, followed by a sharp decline in 2021 and an even more pronounced drop of 40% in 2022. Although the number of orders was higher in 2021, the lower AOV indicated reduced profitability per order. Regarding regional performance, North America led in sales, outperforming EMEA, APAC, and LATAM. However, Latin America had the lowest sales and order volume.
 
