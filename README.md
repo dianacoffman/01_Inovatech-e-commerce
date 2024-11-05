@@ -23,12 +23,9 @@ The SQL Queries with the Commercial Performance Analysis finds can be found **[h
 
 The SQL Queries with the Sales Trends-Customer Behavior finds can be found **[here](https://github.com/dianacoffman/01_Inovatech-e-commerce/blob/main/SQL_Inovatech/Sales_Trends_and_Customer_Behavior_Inovatech.sql)**.
 
-## Dashboards📝
-
-The dashboard can be found in Power BI **[here](https://github.com/dianacoffman/01_Inovatech-e-commerce/blob/main/Dashboards%20Data-Driven%20Insights%20into%20Inovatech.pbix)**. This dashboard enables users to filter by customer region, country, and country code, focusing on sales and marketing metrics.
-
 ![image](https://github.com/user-attachments/assets/d0910e7a-d844-4324-9cbd-03206f2c5dc2)
 
+The dashboard can be found in Power BI **[here](https://github.com/dianacoffman/01_Inovatech-e-commerce/blob/main/Dashboards%20Data-Driven%20Insights%20into%20Inovatech.pbix)**. This dashboard enables users to filter by customer region, country, and country code, focusing on sales and marketing metrics.
 
 ## Finds & Insights💡
 
@@ -53,7 +50,7 @@ Loyalty Program:
 - Given that loyalty program members have demonstrated significantly higher spending than non-members, the team recommends expanding the program's benefits, perhaps by introducing additional rewards to encourage more customers to become members. This could further help increase sales and brand loyalty.
 
 ## Next Steps: RoadMap 12 month & Action Plan 🎯
-(Suggestion: Start the action plan in October 2024)
+
 1. Sales Recovery Strategy
 Objective: Increase sales and customer retention after the decline in 2021 and 2022.
 
